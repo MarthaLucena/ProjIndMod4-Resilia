@@ -23,7 +23,7 @@ Resposta: Os principais campos são os utilizados como chave estrangeira, já qu
 Já os tipos variam de acordo com a informação solicitada, mas os mais utilizados foram: Int, Char e Varchar.
 
 # 3º Como essas entidades estão relacionadas?
-Resposta: As entidades estão relacionadas por meio de chaves estrangeiras (FK), sendo estas:
+Resposta: As entidades estão relacionadas por meio de chaves estrangeiras (FK) e chaves primárias (PK), sendo estas:
 
 - Cursos_ID;
 - Turma_ID;
@@ -36,6 +36,6 @@ Todas conectadas por todos os tipos de cardinalidades, sendo elas:
 - 1 – N (um para vários) ;
 - N – N (vários para vários).
 
-# ___________________________________________________________________
+# ____________________________________________
 
 - Martha Lucena - Programadores Cariocas - Resilia Educação.
