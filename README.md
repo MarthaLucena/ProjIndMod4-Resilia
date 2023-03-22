@@ -13,7 +13,7 @@ Esse projeto consiste na criação da modelagem de um banco de dados utilizando 
 Resposta: Sim. O número de entidades varia de acordo com o tamanho da empresa/projeto. Além das 3 entidades propostas, adicionei a entidade "Professores", mas da mesma forma poderia ter, por exemplo, uma entidade chamada "Unidades", caso a empresa tivesse mais de uma unidade, tendo talvez até atributos mais especificos, como inscrição municipal, estadual, CNES, etc.
 
 # 2º Quais são os principais campos e tipos?
-Resposta: Os principais tipos utilizados foram: 1-1 (um para um) e 1-N (um para muitos). Já os principais campos utilizados foram ID, Nome e CPF, já que todos estes, cada qual em sua respectiva entidade, foram utilizados como chaves primárias e chaves estrangeiras.
+Resposta: O principal tipo utilizado foi: 1-1 (um para um). Já os principais campos utilizados foram ID, Nome e CPF, já que todos estes, cada qual em sua respectiva entidade, foram utilizados como chaves primárias e chaves estrangeiras.
 
 # 3º Como essas entidades estão relacionadas?
 Resposta: As entidades estão relacionadas por meio de chaves estrangeiras (FK), sendo estas:
