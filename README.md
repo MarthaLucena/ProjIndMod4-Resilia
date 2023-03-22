@@ -36,6 +36,6 @@ Todas conectadas por todos os tipos de cardinalidades, sendo elas:
 - 1 – N (um para vários) ;
 - N – N (vários para vários).
 
-# _________________________________________________________________________________________________
+# ___________________________________________________________________
 
 - Martha Lucena - Programadores Cariocas - Resilia Educação.
