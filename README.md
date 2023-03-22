@@ -5,7 +5,7 @@ Projeto Individual - Módulo 4 - Resilia - Banco de Dados
 acompanhamento e para isso precisa de ajuda para modelar um
 banco de dados que vai armazenar seus cursos, turmas e alunos."
 
-Esse projeto consiste na criação da modelagem de um banco de dados utilizando um diagrama ER.
+# Esse projeto consiste na criação da modelagem de um banco de dados utilizando um diagrama ER.
 
 # Questões a serem respondidas:
 
@@ -21,4 +21,4 @@ Resposta: As entidades estão relacionadas por meio de chaves estrangeiras (FK),
 - Cursos_ID;
 - Turma_ID;
 - Professor_ID;
-- Aluno_ID;
+- Aluno_ID.
